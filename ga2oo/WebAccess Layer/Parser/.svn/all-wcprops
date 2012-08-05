@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser
+END
+UserFavBusinessEventsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserFavBusinessEventsXML.h
+END
+UserLocationXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserLocationXML.m
+END
+AuthenticateUserXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AuthenticateUserXML.h
+END
+UserFavBusinessEventsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserFavBusinessEventsXML.m
+END
+AuthenticateUserXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AuthenticateUserXML.m
+END
+AddFavouriteToEventXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AddFavouriteToEventXML.h
+END
+XMLLatLang.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/XMLLatLang.h
+END
+AddFavouriteToEventXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AddFavouriteToEventXML.m
+END
+XMLLatLang.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/XMLLatLang.m
+END
+Ga2ooUsersXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/Ga2ooUsersXML.h
+END
+DeleteFavouriteToEventXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/DeleteFavouriteToEventXML.h
+END
+Ga2ooUsersXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/Ga2ooUsersXML.m
+END
+DeleteFavouriteToEventXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/DeleteFavouriteToEventXML.m
+END
+UpdateProfileXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UpdateProfileXML.h
+END
+UpdateProfileXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UpdateProfileXML.m
+END
+NotificationsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/NotificationsXML.h
+END
+UserNotificationTypesXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserNotificationTypesXML.h
+END
+EventNotificationsBO.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventNotificationsBO.h
+END
+CategoryXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/CategoryXML.h
+END
+NotificationsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/NotificationsXML.m
+END
+EventCategoryXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventCategoryXML.h
+END
+UserNotificationTypesXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserNotificationTypesXML.m
+END
+EventNotificationsBO.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventNotificationsBO.m
+END
+CategoryXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/CategoryXML.m
+END
+Ga2ooBusinessXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/Ga2ooBusinessXML.h
+END
+EventCategoryXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventCategoryXML.m
+END
+Ga2ooBusinessXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/Ga2ooBusinessXML.m
+END
+FavoriteBusinessXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FavoriteBusinessXML.h
+END
+BusinessXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessXML.h
+END
+EventVideosXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventVideosXML.h
+END
+BusinessXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessXML.m
+END
+EventVideosXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventVideosXML.m
+END
+FavoriteBusinessXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FavoriteBusinessXML.m
+END
+UserEventsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserEventsXML.h
+END
+EventsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventsXML.h
+END
+UserEventsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserEventsXML.m
+END
+UserNotificationsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserNotificationsXML.h
+END
+EventsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventsXML.m
+END
+EventLocationXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventLocationXML.h
+END
+UserNotificationsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserNotificationsXML.m
+END
+EventLocationXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventLocationXML.m
+END
+FriendRequestXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FriendRequestXML.h
+END
+FriendRequestXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FriendRequestXML.m
+END
+GUserEventXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/GUserEventXML.h
+END
+GUserEventXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/GUserEventXML.m
+END
+BusinessTypeXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessTypeXML.h
+END
+EventNotificationObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventNotificationObject.h
+END
+BusinessTypeXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessTypeXML.m
+END
+EventNotificationObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventNotificationObject.m
+END
+EventFriendListXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventFriendListXML.h
+END
+EventRecommendateXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventRecommendateXML.h
+END
+ServiceRequestXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/ServiceRequestXML.h
+END
+RegistrationXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/RegistrationXML.h
+END
+EventFriendListXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventFriendListXML.m
+END
+EventRecommendateXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventRecommendateXML.m
+END
+UserAssociationXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserAssociationXML.h
+END
+EventListXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventListXML.h
+END
+UserInboxXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserInboxXML.h
+END
+ServiceRequestXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/ServiceRequestXML.m
+END
+UserXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserXML.h
+END
+RegistrationXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/RegistrationXML.m
+END
+UserAssociationXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserAssociationXML.m
+END
+EventListXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/EventListXML.m
+END
+UserInboxXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserInboxXML.m
+END
+UserXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserXML.m
+END
+BusinessListXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessListXML.h
+END
+FriendsXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FriendsXML.h
+END
+BusinessListXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/BusinessListXML.m
+END
+AddFavouriteToBusinessXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AddFavouriteToBusinessXML.h
+END
+GlobalizationXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/GlobalizationXML.h
+END
+FriendsXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/FriendsXML.m
+END
+AddFavouriteToBusinessXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/AddFavouriteToBusinessXML.m
+END
+GlobalizationXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/GlobalizationXML.m
+END
+UserLocationXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/WebAccess%20Layer/Parser/UserLocationXML.h
+END

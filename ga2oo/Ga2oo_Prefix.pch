@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'Ga2oo' target in the 'Ga2oo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "BaseViewController.h"
+	#import "Ga2ooAppDelegate.h"
+	#import "HomeViewController.h"
+	#import <CoreData/CoreData.h>
+
+#endif
+
+
+#define TwitterConsumerKey @"n3Y4Xjk6tvWXP37S9KSmOQ"
+#define TwitterConsumerSecret @"6Dn1S9E5hAxB03R5naGdYVipIGC6clAStzmMY03I"

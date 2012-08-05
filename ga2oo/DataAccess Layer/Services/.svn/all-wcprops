@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services
+END
+DataAccessLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/DataAccessLayer.m
+END
+Ga2ooUsersDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/Ga2ooUsersDA.h
+END
+FriendsDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FriendsDA.h
+END
+BusinessTypeDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessTypeDA.h
+END
+Ga2ooUsersDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/Ga2ooUsersDA.m
+END
+GlobalizationDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/GlobalizationDA.h
+END
+FriendsDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FriendsDA.m
+END
+BusinessTypeDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessTypeDA.m
+END
+GlobalizationDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/GlobalizationDA.m
+END
+UpdateProfileDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UpdateProfileDA.h
+END
+EventsDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventsDA.h
+END
+EventRecommendateDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventRecommendateDA.h
+END
+EventFriendListDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventFriendListDA.h
+END
+EventImagesDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventImagesDA.h
+END
+UpdateProfileDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UpdateProfileDA.m
+END
+EventsDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventsDA.m
+END
+NotificationsDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/NotificationsDA.h
+END
+EventRecommendateDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventRecommendateDA.m
+END
+EventLocationDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventLocationDA.h
+END
+EventFriendListDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventFriendListDA.m
+END
+UserAssociationDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserAssociationDA.h
+END
+EventImagesDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventImagesDA.m
+END
+EventListDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventListDA.h
+END
+CategoryDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/CategoryDA.h
+END
+NotificationsDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/NotificationsDA.m
+END
+EventLocationDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventLocationDA.m
+END
+EventCategoryDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventCategoryDA.h
+END
+UserAssociationDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserAssociationDA.m
+END
+FavoriteEventDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteEventDA.h
+END
+EventListDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventListDA.m
+END
+CategoryDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/CategoryDA.m
+END
+EventCategoryDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventCategoryDA.m
+END
+FavoriteEventDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteEventDA.m
+END
+BusinessListDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessListDA.h
+END
+FavoriteBusinessDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteBusinessDA.h
+END
+EventVideosDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventVideosDA.h
+END
+BusinessDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessDA.h
+END
+BusinessListDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessListDA.m
+END
+FavoriteBusinessEventDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteBusinessEventDA.h
+END
+FavoriteBusinessDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteBusinessDA.m
+END
+EventVideosDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/EventVideosDA.m
+END
+BusinessDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/BusinessDA.m
+END
+FavoriteBusinessEventDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/FavoriteBusinessEventDA.m
+END
+UserEventsDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserEventsDA.h
+END
+UserLocationDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserLocationDA.h
+END
+UserEventsDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserEventsDA.m
+END
+UserNotificationTypesDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserNotificationTypesDA.h
+END
+UserLocationDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserLocationDA.m
+END
+UserDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserDA.h
+END
+UserInboxDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserInboxDA.h
+END
+UserNotificationTypesDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserNotificationTypesDA.m
+END
+DataAccessLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/DataAccessLayer.h
+END
+UserDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserDA.m
+END
+UserInboxDA.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ga2oowinit/!svn/ver/4/Ga2oo%20Iphone/Ga2oo_Source_10_11_2011/ga2ooSource/DataAccess%20Layer/Services/UserInboxDA.m
+END
