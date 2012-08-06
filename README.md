@@ -1,4 +1,4 @@
 smallwatchmanpalendar
 =====================
 
-test project
+this should be the basic palendar version of iphone
