@@ -3090,7 +3090,7 @@
 				GCC_PREFIX_HEADER = Ga2oo_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				HEADER_SEARCH_PATHS = (
-					"/usr/include/libxml2/**",
+					"$(SDKROOT)/usr/include/libxml2/**",
 					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
 				);
 				INFOPLIST_FILE = "Ga2oo-Info.plist";
@@ -3121,7 +3121,7 @@
 				GCC_PREFIX_HEADER = Ga2oo_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				HEADER_SEARCH_PATHS = (
-					/usr/include/libxml2,
+					"$(SDKROOT)/usr/include/libxml2",
 					../facebook/src,
 				);
 				INFOPLIST_FILE = "Ga2oo-Info.plist";
@@ -3156,12 +3156,17 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
 					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
-					"/usr/include/libxml2/**",
+					"$(SDKROOT)/usr/include/libxml2/**",
+				);
+				"HEADER_SEARCH_PATHS[arch=*]" = (
+					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
+					"$(SDKROOT)/usr/include/libxml2/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
 				SDKROOT = iphoneos;
+				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/** $(SDKROOT)/usr/include/libxml2/**";
 			};
 			name = Debug;
 		};
@@ -3184,6 +3189,7 @@
 				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
 				SDKROOT = iphoneos;
+				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/** $(SDKROOT)/usr/include/libxml2/**";
 			};
 			name = Release;
 		};
