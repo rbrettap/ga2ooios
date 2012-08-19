@@ -11,12 +11,13 @@
 
 @implementation AuthenticateUserBO
 @synthesize UserId;
-@synthesize Response;
 
 -(void)dealloc
 {
 	[UserId release];
-	[Response release];
+	[UserMessage release];
+	[Message release];
+	[Code release];
 	[super dealloc];
 }
 @end
