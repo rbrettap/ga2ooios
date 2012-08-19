@@ -99,14 +99,14 @@ defaultAttributeCount:(int)defaultAttributeCount attributes:(xmlSAX2Attributes *
 		if ([self.currentValue isEqualToString:[NSString stringWithFormat:@"%i",[self.currentValue integerValue]]]) {
 			
 			if ([self.currentValue isEqualToString:@"-1"] || [self.currentValue isEqualToString:@"-2"]) {
-				currentObject.Response = self.currentValue;
+				currentObject.Code = self.currentValue;
  			}
 			else {
 				currentObject.UserId = self.currentValue ;
  			}
    		}
 		else {
-			currentObject.Response = @"Invalid";
+			currentObject.Code = @"Invalid";
 		}
       }
 	self.currentValue = nil;

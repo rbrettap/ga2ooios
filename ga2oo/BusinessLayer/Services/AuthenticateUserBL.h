@@ -20,7 +20,7 @@
 }
 @property(nonatomic,assign) id delegate;
 
--(void)LoadAuthenticateUserWith:(NSString *)soapMsg;
+-(void)LoadAuthenticateUserWith:(NSDictionary *)soapMsg;
 -(void)AuthenticateUserXML:(NSString *)soapMsg;
 -(void) AuthenticateUserCompleted:(AuthenticateUserBO *)Object;
 

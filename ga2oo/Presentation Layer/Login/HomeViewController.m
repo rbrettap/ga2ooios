@@ -161,16 +161,15 @@ static int count = 1;
 
 -(void)AuthenticateUser
 {
- 		NSString *soapMsg = [[[NSString alloc] initWithFormat:@
-							 "<useraccount>"
-							 "<username>%@</username>"
-							 "<password>%@</password>"
-							 "</useraccount>",
-							 txtFieldUserName.text, txtFieldPassword.text] autorelease];
-		
-		
-		[updateLayer LoadAuthenticateUserWith:soapMsg];
-   // [soapMsg release];
+    NSDictionary *apDictionary;
+    
+    apDictionary = [NSDictionary dictionaryWithObjectsAndKeys:
+                    txtFieldUserName.text, @"username",
+                    txtFieldPassword.text, @"password",
+                    nil];
+    
+    
+    [updateLayer LoadAuthenticateUserWith:[NSDictionary dictionaryWithObject:apDictionary forKey:@"useraccount"]];   // [soapMsg release];
 	 
 }
 -(void)UserLoadingCompleted
@@ -236,19 +235,19 @@ static int count = 1;
 	
  	if(Object)
 	{
-		if([Object.Response isEqualToString:@"Timed out"])
+		if([Object.Message isEqualToString:@"Timed out"])
 		{
 			UIAlertView *alertTimedout = [[UIAlertView alloc] initWithTitle:nil message:@"Your request has been timed out, please try again later." delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles:nil];
 			[alertTimedout show];
 			[alertTimedout release];
 		}
-		else if([Object.Response isEqualToString:@"-2"]){
+		else if([Object.Message isEqualToString:@"-2"]){
 			[self removeSyncLoader];
 			UIAlertView *alertEnterPw = [[UIAlertView alloc] initWithTitle:nil message:@"Please enter correct username." delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil];
 			[alertEnterPw show];
 			[alertEnterPw release];	
 		}
-        else if([Object.Response isEqualToString:@"-1"])
+        else if([Object.Message isEqualToString:@"-1"])
         {
             [self removeSyncLoader];
 			UIAlertView *alertEnterPw = [[UIAlertView alloc] initWithTitle:nil message:@"Please enter correct password." delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil];
