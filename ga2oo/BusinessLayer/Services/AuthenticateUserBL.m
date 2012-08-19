@@ -13,11 +13,32 @@
 @synthesize delegate;
 
 
--(void)LoadAuthenticateUserWith:(NSString *)soapMsg
+-(void)LoadAuthenticateUserWith:(NSDictionary *)registrationDict
 {
- 
-    [self performSelectorOnMainThread:@selector(AuthenticateUserXML:) withObject:soapMsg waitUntilDone:NO];
+/*    
+    SSSJSONOperation *operation;
+    NSString *urlString = Ga200AuthUser;
+    NSLog(@"testing....%@", urlString);
+    
+    self.reachability = [Reachability reachabilityForInternetConnection];
+    [self.reachability startNotifier];
+    _operationQueue = [[SSSOperationQueue alloc] init];
+    [_operationQueue setMaxConcurrentOperationCount:1];
+    
+    
+    operation = [SSSJSONOperation operationWithUrlString:urlString urlParameters:nil bodyParameters:registrationDict httpMethod:@"POST"];
+    operation.successCallbackBlock = ^{
+        NSLog(@"AP Registration Response: %@", [operation response]);
+    };
+    operation.failureCallbackBlock = ^{
+        NSLog(@"AP registration failed: %@",[operation error]);
+    };
+    [self.operationQueue addOperation:operation];
+*/    
+    
+    //[self performSelectorOnMainThread:@selector(AuthenticateUserXML:) withObject:soapMsg waitUntilDone:NO];
 }
+
 
 -(void)AuthenticateUserXML:(NSString *)soapMsg
 {
@@ -43,7 +64,7 @@
 								options: NSCaseInsensitiveSearch];
 		if(range.length == 9)
 		{
-			Object.Response = @"Timed out";
+			Object.Code = @"Timed out";
 		}
 	}
 

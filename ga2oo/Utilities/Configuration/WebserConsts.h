@@ -1,6 +1,6 @@
 //
 //  WebserConsts.h
-//  Enki
+//  Richard Brett
 //
 //  Created by WINIT on 22/02/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
@@ -13,7 +13,7 @@
 #define  dateFormatXMLEvent @"yyyy-MM-dd"
 
 // Image path for users http://3.ga2ootesting.appspot.com/rest/v1/user/
- 
+
 #define  tblEvents  @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/Events.xml"
 #define  tblBusinessType @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/tblBusinessType.xml"
 #define  tblBusiness @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/tblBusiness.xml"
@@ -31,44 +31,44 @@
 #define  tblUserEvents @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/tblUserEvents.xml"      // User events
 #define  tblUserLocation @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/tblUserLocation.xml"
 #define  tblUserAssociation @"http://dev.winitsoftware.com/mobile/releases/Ga2oo/tblUserAssociation.xml"
- 
+
 #define  Ga2ooDateFormatXML @"yyyy-MM-dd"
 
 
-#define Ga2ooSERVER @"http://5.ga2ootesting.appspot.com/rest/v1"
-#define Ga2ooSERVER5 @"http://5.ga2ootesting.appspot.com/rest/v1"
+#define Ga2ooSERVER @"http://api.ga2oo.com/rest/v2"
+#define Ga2ooSERVER5 @"http://api.ga2oo.com/rest/v2"
 
 #define  Ga2ooUserXML [NSString stringWithFormat:@"%@/user/id/",Ga2ooSERVER]  // get user whole data OR register 
-#define  Ga2ooUserLocation @"http://5.ga2ootesting.appspot.com/rest/v1/user/savedlocations/id/"
+#define  Ga2ooUserLocation @"http://api.ga2oo.com/rest/v2/user/savedlocations/id/"
 #define  Ga2ooFriendsList [NSString stringWithFormat:@"%@/user/friends/id/",Ga2ooSERVER]
 #define  Ga2ooAllUsersList [NSString stringWithFormat:@"%@/user/list",Ga2ooSERVER]
 
 #define  Ga2ooDeleteFriend [NSString stringWithFormat:@"%@/user/friends/id/",Ga2ooSERVER] // delete the friend
 #define  Ga2ooAddFriend [NSString stringWithFormat:@"%@/user/friends",Ga2ooSERVER] // delete the friend
 
-#define  Ga2ooEventCategories @"http://5.ga2ootesting.appspot.com/rest/v1/categories/list"
-#define  Ga2ooBusineList @"http://5.ga2ootesting.appspot.com/rest/v1/business/list"
+#define  Ga2ooEventCategories @"http://api.ga2oo.com/rest/v2/categories/list"
+#define  Ga2ooBusineList @"http://api.ga2oo.com/rest/v2/business/list"
 
-#define  Ga2ooNotificationList @"http://5.ga2ootesting.appspot.com/rest/v1/user/notifications/received/id"
-#define  Ga2ooEventList @"http://5.ga2ootesting.appspot.com/rest/v1/event/filter"
-#define  Ga2ooUserEventList @"http://5.ga2ootesting.appspot.com/rest/v1/user/events/id/"//
-#define  Ga2ooNotificationList @"http://5.ga2ootesting.appspot.com/rest/v1/user/notifications/received/id" //////
-#define  Ga2ooEvent @"http://5.ga2ootesting.appspot.com/rest/v1/event/id/"
-#define  Ga2ooEventLocation @"http://5.ga2ootesting.appspot.com/rest/v1/event/location/id/"
-#define  Ga2ooEventFrienList @"http://5.ga2ootesting.appspot.com/rest/v1/user/list/ids/"
-#define  Ga2ooFavBusiness @"http://5.ga2ootesting.appspot.com/rest/v1/user/businesses/id/"
-#define  Ga200UpdateUSer @"http://5.ga2ootesting.appspot.com/rest/v1/user/update"
-#define  Ga200AuthUser @"http://5.ga2ootesting.appspot.com/rest/v1/user/signin/" /// sign in URL
-#define  Ga200RegisterUser @"http://5.ga2ootesting.appspot.com/rest/v1/user/register"
-#define  Ga200SaveUserLocation @"http://5.ga2ootesting.appspot.com/rest/v1/user/savedlocations/"
-#define  Ga200UpdateUserProfileImage @"http://5.ga2ootesting.appspot.com/rest/v1/user/img"
+#define  Ga2ooNotificationList @"http://api.ga2oo.com/rest/v2/user/notifications/received/id"
+#define  Ga2ooEventList @"http://api.ga2oo.com/rest/v2/event/filter"
+#define  Ga2ooUserEventList @"http://api.ga2oo.com/rest/v2/user/events/id/"//
+#define  Ga2ooNotificationList @"http://api.ga2oo.com/rest/v2/user/notifications/received/id" //////
+#define  Ga2ooEvent @"http://api.ga2oo.com/rest/v2/event/id/"
+#define  Ga2ooEventLocation @"http://api.ga2oo.com/rest/v2/event/location/id/"
+#define  Ga2ooEventFrienList @"http://api.ga2oo.com/rest/v2/user/list/ids/"
+#define  Ga2ooFavBusiness @"http://api.ga2oo.com/rest/v2/user/businesses/id/"
+#define  Ga200UpdateUSer @"http://api.ga2oo.com/rest/v2/user/update"
+#define  Ga200AuthUser @"http://api.ga2oo.com/rest/v2/user/signin/" /// sign in URL
+#define  Ga200RegisterUser @"http://api.ga2oo.com/rest/v2/user/register"
+#define  Ga200SaveUserLocation @"http://api.ga2oo.com/rest/v2/user/savedlocations/"
+#define  Ga200UpdateUserProfileImage @"http://api.ga2oo.com/rest/v2/user/img"
 
-#define  Ga200UpdateUserPrimaryLocation @"http://5.ga2ootesting.appspot.com/rest/v1/user/savedlocations/updateprimary"
+#define  Ga200UpdateUserPrimaryLocation @"http://api.ga2oo.com/rest/v2/user/savedlocations/updateprimary"
 
-#define Ga2ooEventFilterBydate @"http://5.ga2ootesting.appspot.com/rest/v1/event/filter?startdate=%@"
-#define Ga2ooEventFilterBycategory @"http://5.ga2ootesting.appspot.com/rest/v1/event/filter?category=%@"
-#define Ga2ooEventFilterBydate_Category @"http://5.ga2ootesting.appspot.com/rest/v1/event/filter?category=%@&startdate=%@"
-#define Ga2ooEventFilterBycategory_dateBysortOption @"http://5.ga2ootesting.appspot.com/rest/v1/event/filter?category=%@&startdate=%@&sortby=%@"
+#define Ga2ooEventFilterBydate @"http://api.ga2oo.com/rest/v2/event/filter?startdate=%@"
+#define Ga2ooEventFilterBycategory @"http://api.ga2oo.com/rest/v2/event/filter?category=%@"
+#define Ga2ooEventFilterBydate_Category @"http://api.ga2oo.com/rest/v2/event/filter?category=%@&startdate=%@"
+#define Ga2ooEventFilterBycategory_dateBysortOption @"http://api.ga2oo.com/rest/v2/event/filter?category=%@&startdate=%@&sortby=%@"
 
-#define  Ga2oRecommendateList @"http://5.ga2ootesting.appspot.com/rest/v1/user/inbox/received/id"
+#define  Ga2oRecommendateList @"http://api.ga2oo.com/rest/v2/inbox/received/id"
 
