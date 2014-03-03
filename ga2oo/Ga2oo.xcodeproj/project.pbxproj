@@ -41,7 +41,6 @@
 		16903DF213783AEE009D5B00 /* SettingNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16903DE413783AEE009D5B00 /* SettingNewViewController.m */; };
 		16903DF313783AEE009D5B00 /* SettingNewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16903DE513783AEE009D5B00 /* SettingNewViewController.xib */; };
 		16903DF613783AEE009D5B00 /* SettingWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16903DEA13783AEE009D5B00 /* SettingWebViewController.m */; };
-		16903DF713783AEE009D5B00 /* SettingWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16903DEB13783AEE009D5B00 /* SettingWebViewController.xib */; };
 		16903E3C13783C78009D5B00 /* BaseBusinessObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 16903E1913783C78009D5B00 /* BaseBusinessObject.m */; };
 		16903E3D13783C78009D5B00 /* BusinessBO.m in Sources */ = {isa = PBXBuildFile; fileRef = 16903E1B13783C78009D5B00 /* BusinessBO.m */; };
 		16903E3E13783C78009D5B00 /* BusinessTypeBO.m in Sources */ = {isa = PBXBuildFile; fileRef = 16903E1D13783C78009D5B00 /* BusinessTypeBO.m */; };
@@ -384,7 +383,6 @@
 		1696762D13A7D32F00A14CF8 /* PinDown3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1696755E13A7D32F00A14CF8 /* PinDown3.png */; };
 		1696762E13A7D32F00A14CF8 /* PinFloating.png in Resources */ = {isa = PBXBuildFile; fileRef = 1696755F13A7D32F00A14CF8 /* PinFloating.png */; };
 		169DD83C13A9121000BF614D /* FriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 169DD83A13A9121000BF614D /* FriendsViewController.m */; };
-		169DD83D13A9121000BF614D /* FriendsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 169DD83B13A9121000BF614D /* FriendsViewController.xib */; };
 		16B00AAE13937DAC008FB25E /* AuthenticateUserBO.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B00AAD13937DAC008FB25E /* AuthenticateUserBO.m */; };
 		16B00AB113937E1C008FB25E /* AuthenticateUserXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B00AB013937E1C008FB25E /* AuthenticateUserXML.m */; };
 		16B00ACF139380A0008FB25E /* AuthenticateUserBL.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B00ACE139380A0008FB25E /* AuthenticateUserBL.m */; };
@@ -435,7 +433,6 @@
 		299B0309144585FF00296EE4 /* checked.png in Resources */ = {isa = PBXBuildFile; fileRef = 299B0308144585FE00296EE4 /* checked.png */; };
 		29A7064A142C7286004B9CED /* FriendRequestXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A70649142C7286004B9CED /* FriendRequestXML.m */; };
 		29A7064E142C7373004B9CED /* FriendRequestBO.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A7064D142C7373004B9CED /* FriendRequestBO.m */; };
-		29B05348145C0A3A0079738E /* libOAuth.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 29B05347145C0A3A0079738E /* libOAuth.a */; };
 		29B05352145C15060079738E /* icon-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 29B05351145C15060079738E /* icon-9.png */; };
 		29B05545145C50480079738E /* settingProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B05544145C50470079738E /* settingProfileViewController.m */; };
 		29BF73241422660C0025589A /* UserFavEvents.m in Sources */ = {isa = PBXBuildFile; fileRef = 29BF73231422660C0025589A /* UserFavEvents.m */; };
@@ -494,6 +491,8 @@
 		88C0D9D1141E21A5002738BA /* PersonalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88C0D9CF141E21A5002738BA /* PersonalViewController.xib */; };
 		88C0D9D9141E221A002738BA /* UserBL.m in Sources */ = {isa = PBXBuildFile; fileRef = 88C0D9D8141E221A002738BA /* UserBL.m */; };
 		88C0D9DC141E2269002738BA /* RegisterObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 88C0D9DB141E2269002738BA /* RegisterObject.m */; };
+		9D97D80E18C377C000762EA0 /* FriendsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D97D80D18C377C000762EA0 /* FriendsViewController.xib */; };
+		9D9A377918C380A600B92E30 /* SettingWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16903DEB13783AEE009D5B00 /* SettingWebViewController.xib */; };
 		D39CECB6141B4DC300C514EA /* EventNotificationsBO.m in Sources */ = {isa = PBXBuildFile; fileRef = D39CECB5141B4DC300C514EA /* EventNotificationsBO.m */; };
 		D39CED0E141B6F7300C514EA /* UserNotificationsXML.m in Sources */ = {isa = PBXBuildFile; fileRef = D39CED0D141B6F7300C514EA /* UserNotificationsXML.m */; };
 		D39CED12141B70F800C514EA /* EventNotificationObject.m in Sources */ = {isa = PBXBuildFile; fileRef = D39CED11141B70F800C514EA /* EventNotificationObject.m */; };
@@ -1066,7 +1065,6 @@
 		1696755F13A7D32F00A14CF8 /* PinFloating.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinFloating.png; sourceTree = "<group>"; };
 		169DD83913A9121000BF614D /* FriendsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendsViewController.h; sourceTree = "<group>"; };
 		169DD83A13A9121000BF614D /* FriendsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendsViewController.m; sourceTree = "<group>"; };
-		169DD83B13A9121000BF614D /* FriendsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FriendsViewController.xib; sourceTree = "<group>"; };
 		16B00AAC13937DAC008FB25E /* AuthenticateUserBO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthenticateUserBO.h; sourceTree = "<group>"; };
 		16B00AAD13937DAC008FB25E /* AuthenticateUserBO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuthenticateUserBO.m; sourceTree = "<group>"; };
 		16B00AAF13937E1C008FB25E /* AuthenticateUserXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthenticateUserXML.h; sourceTree = "<group>"; };
@@ -1253,6 +1251,7 @@
 		88C0D9DA141E2269002738BA /* RegisterObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterObject.h; sourceTree = "<group>"; };
 		88C0D9DB141E2269002738BA /* RegisterObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterObject.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Ga2oo-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ga2oo-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		9D97D80D18C377C000762EA0 /* FriendsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FriendsViewController.xib; sourceTree = "<group>"; };
 		D39CECB4141B4DC300C514EA /* EventNotificationsBO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EventNotificationsBO.h; path = "../../WebAccess Layer/Parser/EventNotificationsBO.h"; sourceTree = "<group>"; };
 		D39CECB5141B4DC300C514EA /* EventNotificationsBO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EventNotificationsBO.m; path = "../../WebAccess Layer/Parser/EventNotificationsBO.m"; sourceTree = "<group>"; };
 		D39CED0C141B6F7300C514EA /* UserNotificationsXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserNotificationsXML.h; sourceTree = "<group>"; };
@@ -1303,7 +1302,6 @@
 				16DD78F21370232D003D1214 /* CoreData.framework in Frameworks */,
 				6DB6048B137158A30086D71D /* MapKit.framework in Frameworks */,
 				6DB6048F137158B80086D71D /* libxml2.dylib in Frameworks */,
-				29B05348145C0A3A0079738E /* libOAuth.a in Frameworks */,
 				7DCE5B80148181AF0015EB1B /* libOAuth.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1422,9 +1420,9 @@
 		16903D8013783A70009D5B00 /* Friends */ = {
 			isa = PBXGroup;
 			children = (
+				9D97D80D18C377C000762EA0 /* FriendsViewController.xib */,
 				169DD83913A9121000BF614D /* FriendsViewController.h */,
 				169DD83A13A9121000BF614D /* FriendsViewController.m */,
-				169DD83B13A9121000BF614D /* FriendsViewController.xib */,
 				16903DAA13783AB8009D5B00 /* FriendDetailViewController.h */,
 				16903DAB13783AB8009D5B00 /* FriendDetailViewController.m */,
 				16903DAC13783AB8009D5B00 /* FriendDetailViewController.xib */,
@@ -2572,6 +2570,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D9A377918C380A600B92E30 /* SettingWebViewController.xib in Resources */,
 				6DA5A8B7130C2F9E00B69301 /* MainWindow.xib in Resources */,
 				16903D9713783AA3009D5B00 /* EventDetailViewController.xib in Resources */,
 				16903D9913783AA3009D5B00 /* eventListViewController.xib in Resources */,
@@ -2583,7 +2582,6 @@
 				16903DED13783AEE009D5B00 /* ContactViewController.xib in Resources */,
 				16903DF113783AEE009D5B00 /* SettingCellViewController.xib in Resources */,
 				16903DF313783AEE009D5B00 /* SettingNewViewController.xib in Resources */,
-				16903DF713783AEE009D5B00 /* SettingWebViewController.xib in Resources */,
 				6DAC141A1356E8F400DDD78E /* TicketWebViewController.xib in Resources */,
 				6D8622041396063E00D8826E /* green_bg.png in Resources */,
 				1696756013A7D32F00A14CF8 /* left-arrowx.png in Resources */,
@@ -2655,6 +2653,7 @@
 				169675A413A7D32F00A14CF8 /* seperaotr.png in Resources */,
 				169675A513A7D32F00A14CF8 /* seperator.png in Resources */,
 				169675A613A7D32F00A14CF8 /* share_icon.png in Resources */,
+				9D97D80E18C377C000762EA0 /* FriendsViewController.xib in Resources */,
 				169675A713A7D32F00A14CF8 /* submit.png in Resources */,
 				169675A813A7D32F00A14CF8 /* top_bar.png in Resources */,
 				169675A913A7D32F00A14CF8 /* top_curve.png in Resources */,
@@ -2791,13 +2790,12 @@
 				1696762C13A7D32F00A14CF8 /* PinDown2.png in Resources */,
 				1696762D13A7D32F00A14CF8 /* PinDown3.png in Resources */,
 				1696762E13A7D32F00A14CF8 /* PinFloating.png in Resources */,
-				169DD83D13A9121000BF614D /* FriendsViewController.xib in Resources */,
 				18354C3713AA994F00BAD874 /* Ga2ooViewController.xib in Resources */,
+				16913B1113D064A300BBDF4A /* facebookConnectViewController.xib in Resources */,
 				18354C3A13AA997200BAD874 /* inner_bg_bottom.png in Resources */,
 				18354C3B13AA997200BAD874 /* inner_patch.png in Resources */,
 				16D25ED9139E0AAA00B3ED3C /* blueBg.png in Resources */,
 				16D261CD139E236200B3ED3C /* alert_bg.png in Resources */,
-				16913B1113D064A300BBDF4A /* facebookConnectViewController.xib in Resources */,
 				16913B5213D0654A00BBDF4A /* FBConnect.bundle in Resources */,
 				16913FE513D0773B00BBDF4A /* tweet.png in Resources */,
 				16913FE713D0773B00BBDF4A /* twitterViewController.xib in Resources */,
@@ -3081,8 +3079,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ga2oo, LLC";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ga2oo, LLC";
+				ARCHS = "$(ARCHS_STANDARD)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Flurry, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Flurry, Inc";
 				COPY_PHASE_STRIP = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -3094,7 +3093,7 @@
 					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
 				);
 				INFOPLIST_FILE = "Ga2oo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Presentation Layer/BaseViewController/Twitter+OAuth/SAOAuthTwitterEngine\"",
@@ -3102,11 +3101,12 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = Ga2oo;
-				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
+				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = ../facebookconnect/src;
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
 			};
 			name = Debug;
 		};
@@ -3114,8 +3114,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ga2oo, LLC";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ga2oo, LLC";
+				ARCHS = "$(ARCHS_STANDARD)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Flurry, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Flurry, Inc";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Ga2oo_Prefix.pch;
@@ -3125,7 +3126,7 @@
 					../facebook/src,
 				);
 				INFOPLIST_FILE = "Ga2oo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Utilities/Twitter/Twitter+OAuth/SAOAuthTwitterEngine\"",
@@ -3133,23 +3134,21 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = Ga2oo;
-				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
+				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = ../facebookconnect/src;
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
 			};
 			name = Release;
 		};
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ga2oo, LLC";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ga2oo, LLC";
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Flurry, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Flurry, Inc";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -3162,34 +3161,33 @@
 					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
 					"$(SDKROOT)/usr/include/libxml2/**",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
-				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/** $(SDKROOT)/usr/include/libxml2/**";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
 			};
 			name = Debug;
 		};
 		C01FCF5008A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ga2oo, LLC";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ga2oo, LLC";
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Flurry, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Flurry, Inc";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "../facebook/src/**";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D3BD5DEE-43DF-4C10-9E73-87DA2F877C12";
+				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/** $(SDKROOT)/usr/include/libxml2/**";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
 			};
 			name = Release;
 		};
