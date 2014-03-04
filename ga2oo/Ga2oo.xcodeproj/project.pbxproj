@@ -491,6 +491,7 @@
 		88C0D9D1141E21A5002738BA /* PersonalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88C0D9CF141E21A5002738BA /* PersonalViewController.xib */; };
 		88C0D9D9141E221A002738BA /* UserBL.m in Sources */ = {isa = PBXBuildFile; fileRef = 88C0D9D8141E221A002738BA /* UserBL.m */; };
 		88C0D9DC141E2269002738BA /* RegisterObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 88C0D9DB141E2269002738BA /* RegisterObject.m */; };
+		9D2F5B5B18C4ED43003A07E1 /* Palendar-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9D2F5B5A18C4ED43003A07E1 /* Palendar-Info.plist */; };
 		9D97D80E18C377C000762EA0 /* FriendsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D97D80D18C377C000762EA0 /* FriendsViewController.xib */; };
 		9D9A377918C380A600B92E30 /* SettingWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16903DEB13783AEE009D5B00 /* SettingWebViewController.xib */; };
 		D39CECB6141B4DC300C514EA /* EventNotificationsBO.m in Sources */ = {isa = PBXBuildFile; fileRef = D39CECB5141B4DC300C514EA /* EventNotificationsBO.m */; };
@@ -1118,7 +1119,7 @@
 		18354C3813AA997200BAD874 /* inner_bg_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = inner_bg_bottom.png; sourceTree = "<group>"; };
 		18354C3913AA997200BAD874 /* inner_patch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = inner_patch.png; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D6058910D05DD3D006BFB54 /* Ga2oo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ga2oo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D6058910D05DD3D006BFB54 /* Palendar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Palendar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		28A0AB4B0D9B1048005BE974 /* Ga2oo_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ga2oo_Prefix.pch; sourceTree = "<group>"; };
@@ -1250,7 +1251,7 @@
 		88C0D9D8141E221A002738BA /* UserBL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserBL.m; sourceTree = "<group>"; };
 		88C0D9DA141E2269002738BA /* RegisterObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterObject.h; sourceTree = "<group>"; };
 		88C0D9DB141E2269002738BA /* RegisterObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterObject.m; sourceTree = "<group>"; };
-		8D1107310486CEB800E47090 /* Ga2oo-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ga2oo-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		9D2F5B5A18C4ED43003A07E1 /* Palendar-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Palendar-Info.plist"; sourceTree = "<group>"; };
 		9D97D80D18C377C000762EA0 /* FriendsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FriendsViewController.xib; sourceTree = "<group>"; };
 		D39CECB4141B4DC300C514EA /* EventNotificationsBO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EventNotificationsBO.h; path = "../../WebAccess Layer/Parser/EventNotificationsBO.h"; sourceTree = "<group>"; };
 		D39CECB5141B4DC300C514EA /* EventNotificationsBO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EventNotificationsBO.m; path = "../../WebAccess Layer/Parser/EventNotificationsBO.m"; sourceTree = "<group>"; };
@@ -2409,7 +2410,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* Ga2oo.app */,
+				1D6058910D05DD3D006BFB54 /* Palendar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -2450,7 +2451,7 @@
 			children = (
 				7DF3A56A149444E90099E7E2 /* Icon.png */,
 				1696748D13A7D31C00A14CF8 /* Images */,
-				8D1107310486CEB800E47090 /* Ga2oo-Info.plist */,
+				9D2F5B5A18C4ED43003A07E1 /* Palendar-Info.plist */,
 				6DA5A8B6130C2F9E00B69301 /* MainWindow.xib */,
 			);
 			name = Resources;
@@ -2535,7 +2536,7 @@
 			);
 			name = Ga2oo;
 			productName = Ga2oo;
-			productReference = 1D6058910D05DD3D006BFB54 /* Ga2oo.app */;
+			productReference = 1D6058910D05DD3D006BFB54 /* Palendar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -2621,6 +2622,7 @@
 				1696758313A7D32F00A14CF8 /* inner_logo.png in Resources */,
 				1696758413A7D32F00A14CF8 /* leftarr copy.png in Resources */,
 				1696758513A7D32F00A14CF8 /* leftarr.png in Resources */,
+				9D2F5B5B18C4ED43003A07E1 /* Palendar-Info.plist in Resources */,
 				1696758613A7D32F00A14CF8 /* list_hover.png in Resources */,
 				1696758713A7D32F00A14CF8 /* login_btn.png in Resources */,
 				1696758813A7D32F00A14CF8 /* login_btnfb.png in Resources */,
@@ -3092,7 +3094,7 @@
 					"$(SDKROOT)/usr/include/libxml2/**",
 					"\"$(SRCROOT)/Utilities/FacebookController/facebook/src/**\"/**",
 				);
-				INFOPLIST_FILE = "Ga2oo-Info.plist";
+				INFOPLIST_FILE = "Palendar-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3100,7 +3102,7 @@
 					"\"$(SRCROOT)/Utilities/Twitter+OAuth/SAOAuthTwitterEngine\"",
 					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = Ga2oo;
+				PRODUCT_NAME = Palendar;
 				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
@@ -3125,7 +3127,7 @@
 					"$(SDKROOT)/usr/include/libxml2",
 					../facebook/src,
 				);
-				INFOPLIST_FILE = "Ga2oo-Info.plist";
+				INFOPLIST_FILE = "Palendar-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3133,7 +3135,7 @@
 					"\"$(SRCROOT)/Utilities/Twitter+OAuth/SAOAuthTwitterEngine\"",
 					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = Ga2oo;
+				PRODUCT_NAME = Palendar;
 				PROVISIONING_PROFILE = "49416073-B25C-4F23-B976-FE882C8CED29";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49416073-B25C-4F23-B976-FE882C8CED29";
 				SDKROOT = iphoneos;
